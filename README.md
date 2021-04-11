@@ -1,4 +1,4 @@
-#Simple server with gmail authorization
+## Simple server with gmail authorization
 
 Names in Russian are displayed incorrectly (such as sequence of '?') 
 
